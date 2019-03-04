@@ -1,0 +1,22 @@
+/** Import Bootstrap functions */
+@import "~bootstrap/scss/functions";
+
+$theme-colors: (
+  primary: #525ddc
+);
+
+/** Bootstrap navbar fix (https://git.io/fADqW) */
+$navbar-dark-toggler-icon-bg: none;
+$navbar-light-toggler-icon-bg: none;
+
+$orange: #f26524;
+$blue:  #467189;
+$blue2: #626d73;
+$blue3: #1d455b;
+$white: #fff;
+$grey:  #d8d8d8;
+$grey2: #626d73;
+$grey3: #979797;
+$grey4: #d9d9d5;
+
+$libreFranklin: 'Libre Franklin', sans-serif;
