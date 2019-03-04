@@ -24,14 +24,6 @@
         Subscribe
     </div>
 
-    {{--<div class="social-link">--}}
-        {{--<i class="fab fa-youtube item-icon"></i>--}}
-        {{--<i class="fab fa-facebook-f item-icon"></i>--}}
-        {{--<i class="fab fa-twitter item-icon"></i>--}}
-        {{--<i class="fab fa-instagram item-icon"></i>--}}
-        {{--<i class="far fa-envelope item-icon"></i>--}}
-    {{--</div>--}}
-
     <img src="@asset('images/core-plus-black.png')" alt="" class="logo align-self-center">
 
     <button class="navbar-toggler hamburger hamburger--spring btn-toggler-md" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
