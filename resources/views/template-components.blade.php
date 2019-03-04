@@ -337,8 +337,5 @@
             ?>
         </div>
     </div>
-    &nbsp;
-
-
 @endsection
 
